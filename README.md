@@ -119,10 +119,10 @@ void IRsensor()
 
 ## Output  :
 
- ![image](https://github.com/user-attachments/assets/6f720ccd-123f-4700-b1f2-280d0967c9b4)
+ ![image](https://github.com/user-attachments/assets/6f720ccd-123f-4700-b1f2-280d0967c9b4) 
 
  
- ![image](https://github.com/user-attachments/assets/2d761fdc-8216-4e5a-8568-4aca428f98a1)
+ ![image](https://github.com/user-attachments/assets/2d761fdc-8216-4e5a-8568-4aca428f98a1) 
 
  
 ## Result :
